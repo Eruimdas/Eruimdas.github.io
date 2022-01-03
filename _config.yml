@@ -1,34 +1,33 @@
-site: Gesko
-title: Gesko
-greetings: Hi 👋
-description: >-
-  just a minimalist, personal blog
+site: eruimdas
+title: Hasan Kemik
+greetings: Hi there👋
+description: This is Hasan from Istanbul, feel free to check everything :) !
 lang: en-US
-timezone:  Europe/Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+timezone:  Europe/Istanbul
+repo: https://github.com/eruimdas/eruimdas.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: powex # replace with your disqus shortname
+discus-identifier: # replace with your disqus shortname
 
 author:
-  name: gesko
+  name: hasankemik
   bio: just a minimalist, personal blog
-  userpicture: 
-  username: # general username
-  github: # github username
+  userpicture: https://res.cloudinary.com/eruimdas-github-io/image/upload/ar_1:1,b_rgb:262c35,bo_3px_solid_rgb:000000,c_fill,g_xy_center,q_100,r_max,w_1000,x_0,y_500/a_0/v1640899539/HasanKemik_a2w3sa.jpg
+  username: eruimdas
+  github: Eruimdas
   twitter: # twitter username
-  email: your-email@email.com # email adress
+  email: hasan.kemikk@gmail.com
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://p0wex.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://eruimdas.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl:  # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
-# url: "http://localhost:4000" # 
-# baseurl: "" # 
+# url: "http://localhost:4000" #
+# baseurl: "" #
 
 
 markdown: kramdown
@@ -45,7 +44,7 @@ exclude:
   - LICENSE.md
   - README.md
   - CONTRIBUTING.md
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -66,7 +65,7 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  
+
 defaults:
   -
     scope:
@@ -89,5 +88,3 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
-
-
