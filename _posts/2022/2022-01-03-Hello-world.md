@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CSS hacks you may not know
-description: This is a collection of short CSS snippets I thought might be useful for beginners
-summary: This is a collection of short CSS snippets I thought might be useful for beginners.
-tags: css coding
+title: Hello world!
+description: This is the first post of I've written in this page.
+summary: Why Hasan Kemik created this blog, who is he, and what's the aim?
+tags: machine-learning NLP artificial-intelligence computer-engineering blog
 ---
 
 This is a trial!
