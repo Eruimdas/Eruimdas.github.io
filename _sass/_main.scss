@@ -47,7 +47,7 @@ html[data-theme="light"] {
 
 	background-color: rgb(255, 255, 255);
 
-	
+
 
 	#theme-toggle div {
 		position: relative;
@@ -388,7 +388,7 @@ main {
   position: initial;
 
   .social-footer-icons {
-     
+
     .fa {
       font-size: 1.3rem;
       color: #a9a9a9;
@@ -449,7 +449,7 @@ color: #333;
 
 .search-article {
   position: relative;
- 
+
 
   label[for="search-input"] {
     position: relative;
@@ -543,7 +543,7 @@ color: #333;
       padding-left: 20px;
     }
   }
-} 	
+}
 
 
 .tags ul {
@@ -581,13 +581,19 @@ $link-color: var(--link-color);
     content: ' ';
     display: block;
     width: 6px;
-    height: 100%;
+		height: 80vh;
     margin-left: -3px;
     background: var(--light-text-color);
     z-index: 5;
     @media(max-width: 375px) {
       height: 150%;
-    }
+    };
+		@media(min-height: 1200px){
+			height: 63.85vh;
+		};
+		@media(max-height: 1200px){
+			height: 96.5vh;
+		}
   }
   li {
     padding: 2em 0;
@@ -790,6 +796,6 @@ $link-color: var(--link-color);
     background: var(--code-bg-color);
     box-shadow: 0 0 1px rgba(0,0,0,0.20);
     z-index: 15;
-    
+
   }
 }
