@@ -11,7 +11,7 @@ discus-identifier: # replace with your disqus shortname
 author:
   name: hasankemik
   bio: A minimal blog, where Hasan likes to write about anything ;)
-  userpicture: https://res.cloudinary.com/eruimdas-github-io/image/upload/ar_1:1,b_rgb:262c35,bo_3px_solid_rgb:000000,c_fill,g_xy_center,q_100,r_max,w_1000,x_0,y_500/a_0/v1640899539/HasanKemik_a2w3sa.jpg
+  userpicture: https://res.cloudinary.com/eruimdas-github-io/image/upload/ar_1:1,bo_3px_solid_rgb:000000,c_fill,g_xy_center,r_max,w_1000,x_0,y_500/v1640899539/HasanKemik_a2w3sa.jpg
   username: eruimdas
   github: Eruimdas
   twitter: # twitter username
