@@ -7,7 +7,7 @@ tags: machine-learning nlp artificial-intelligence computer-engineering
 ---
 
 
-![](https://res.cloudinary.com/eruimdas-github-io/image/upload/ar_1:1,bo_3px_solid_rgb:000000,c_fill,g_xy_center,r_max,w_500,x_0,y_500/v1640899539/HasanKemik_a2w3sa.jpg) \
+![](https://res.cloudinary.com/eruimdas-github-io/image/upload/ar_1:1,bo_2px_solid_rgb:000000,c_fill,e_auto_contrast,fl_any_format.apng,g_xy_center,o_100,q_auto,r_max,w_500,y_500/v1640899539/HasanKemik_a2w3sa.png) \
 *Let's start with a little smile :)*
 
 Hello everyone 😇,
