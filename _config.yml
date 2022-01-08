@@ -1,7 +1,7 @@
 site: eruimdas
 title: Hasan Kemik
 greetings: Hi there👋
-description: This is Hasan from Istanbul, feel free to check everything :) !
+description: This is Hasan and in this page(s) you'll find lots of things. Some are directly about me, some are just a way for me to share my knowledge.  Feel free to check them all!
 lang: en-US
 timezone:  Europe/Istanbul
 repo: https://github.com/eruimdas/eruimdas.github.io # site repo [optional]
@@ -10,7 +10,7 @@ discus-identifier: # replace with your disqus shortname
 
 author:
   name: hasankemik
-  bio: just a minimalist, personal blog
+  bio: A minimal blog, where Hasan likes to write about anything ;)
   userpicture: https://res.cloudinary.com/eruimdas-github-io/image/upload/ar_1:1,b_rgb:262c35,bo_3px_solid_rgb:000000,c_fill,g_xy_center,q_100,r_max,w_1000,x_0,y_500/a_0/v1640899539/HasanKemik_a2w3sa.jpg
   username: eruimdas
   github: Eruimdas
