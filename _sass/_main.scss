@@ -581,19 +581,13 @@ $link-color: var(--link-color);
     content: ' ';
     display: block;
     width: 6px;
-		height: 80vh;
+		height: 100%;
     margin-left: -3px;
     background: var(--light-text-color);
     z-index: 5;
-    @media(max-width: 375px) {
+		@media(max-width: 375px) {
       height: 150%;
-    };
-		@media(min-height: 1200px){
-			height: 63.85vh;
-		};
-		@media(max-height: 1200px){
-			height: 96.5vh;
-		}
+    }
   }
   li {
     padding: 2em 0;
